@@ -43,7 +43,7 @@ export default function Carrinho() {
           </span>
         </div>
         <Button onClick={() => dispatch(resetarCarrinho())}>
-          Finalizar
+          Finalizar compra
         </Button>
       </div>
     </div>

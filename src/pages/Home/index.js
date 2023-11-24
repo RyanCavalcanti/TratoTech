@@ -1,6 +1,6 @@
 import Header from 'components/Header';
 import styles from './Home.module.scss';
-import relogio from '../../assets/inicial.png';
+import relogio from 'assets/inicial.png';
 import { useNavigate } from 'react-router-dom';
 import { useSelector } from 'react-redux';
 
